@@ -5,6 +5,9 @@ background-color: rgb(204, 204, 204)
 h1{
 	text-align:center;
 }
+h2{
+	text-align:center;
+}
 ul{
 	list-style-type:none;
 }
@@ -13,4 +16,9 @@ ul{
 	border-radius:10px;
 	border: 1px solid black;
 	padding-bottom:10px;
+}
+video{
+background-color: rgb(255, 255, 255);
+	justify-content:center;
+	
 }
